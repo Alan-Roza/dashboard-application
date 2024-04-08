@@ -1,0 +1,6 @@
+{
+  "appTitle": "dahsboard_application",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
